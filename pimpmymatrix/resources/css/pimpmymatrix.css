@@ -92,6 +92,10 @@ body.rtl .buttons-pimped > .btn, body.rtl .buttons-pimped > .btngroup { margin: 
   font-size: 0;
 }
 
+.matrixblock-pimped.disabled .pimpmymatrix-tabs {
+	right: 100px;
+}
+
 .matrixblock-pimped .pimpmymatrix-tabs li {
   display: inline-block;
   font-size: 13px;
